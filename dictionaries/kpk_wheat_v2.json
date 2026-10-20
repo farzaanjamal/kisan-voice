@@ -1,0 +1,763 @@
+{
+  "format_version": 2,
+  "dictionary_id": 3,
+  "code": "KPW",
+  "region": "kpk",
+  "crop": "wheat",
+  "dictionary_version": 1,
+  "languages": [
+    "ur",
+    "roman_ur"
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "code": "KPW-VAR-001",
+      "category": "variety",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "پیلا کنگی (یلو رسٹ) برداشت کرنے والی منظور شدہ قسم کاشت کریں۔",
+        "roman_ur": "Peela kangi (yellow rust) bardasht karnay wali manzoor-shuda qism kaasht karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1494566/full",
+          "note": "stripe-rust resistance in recent Pakistani cultivars"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 2,
+      "code": "KPW-VAR-002",
+      "category": "variety",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "صرف ایک حساس قسم پر انحصار نہ کریں؛ تازہ منظور شدہ مزاحم قسم چنیں۔",
+        "roman_ur": "Sirf aik hassaas qism par inhisaar na karein; taaza manzoor-shuda muzahim qism chunein."
+      },
+      "sources": [
+        {
+          "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1494566/full",
+          "note": "stripe-rust resistance in recent Pakistani cultivars"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 3,
+      "code": "KPW-SOW-001",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "کاشت سے پہلے کھیت اچھی طرح ہموار کریں اور گوبر کی کھاد ڈالیں۔",
+        "roman_ur": "Kaasht se pehlay khet achhi tarah hamwaar karein aur gobar ki khaad daalein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Wheat%20Production%20Technology.pdf",
+          "note": "KP Agri Dept — Wheat Production Technology (official)"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 4,
+      "code": "KPW-SOW-002",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "warning",
+      "text": {
+        "ur": "گندم وقت پر کاشت کریں (پچیس اکتوبر سے پندرہ نومبر)؛ دیر سے کاشت پیداوار کم کرتی ہے۔",
+        "roman_ur": "Gandum waqt par kaasht karein (25 October se 15 November); der se kaasht paidawar kam karti hai."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Wheat%20Production%20Technology.pdf",
+          "note": "KP Agri Dept — Wheat Production Technology (official)"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 5,
+      "code": "KPW-SOW-003",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "warning",
+      "text": {
+        "ur": "بیس نومبر کے بعد ہر دن کی تاخیر پیداوار گھٹاتی ہے؛ جلد کاشت کریں۔",
+        "roman_ur": "20 November ke baad har din ki taakheer paidawar ghataati hai; jald kaasht karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/publication/280722592",
+          "note": "ARI Tarnab sowing-date/seed-rate study"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 6,
+      "code": "KPW-SOW-004",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "چھٹے کے بجائے ڈرل سے کاشت کریں؛ فصل یکساں اور بیج کم لگتا ہے۔",
+        "roman_ur": "Chhittay ke bajaye drill se kaasht karein; fasal yaksaan aur beej kam lagta hai."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Wheat%20Production%20Technology.pdf",
+          "note": "KP Agri Dept — Wheat Production Technology (official)"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 7,
+      "code": "KPW-SED-001",
+      "category": "seed",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "تصدیق شدہ قسم کا بیج استعمال کریں۔",
+        "roman_ur": "Tasdeeq-shuda qism ka beej istemal karein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Wheat%20Production%20Technology.pdf",
+          "note": "KP Agri Dept — Wheat Production Technology (official)"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 8,
+      "code": "KPW-SED-002",
+      "category": "seed",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "بیج کا علاج کریں تاکہ کنڈوا اور دیمک سے بچاؤ ہو۔",
+        "roman_ur": "Beej ka ilaaj karein taakay kandwa aur deemak se bachao ho."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Wheat%20Production%20Technology.pdf",
+          "note": "KP Agri Dept — Wheat Production Technology (official)"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 9,
+      "code": "KPW-FRT-001",
+      "category": "fertilizer",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "کاشت کے وقت ڈی اے پی (فاسفورس) ڈالیں؛ اس سے جڑیں اور پھٹاؤ مضبوط ہوتے ہیں۔",
+        "roman_ur": "Kaasht ke waqt DAP (phosphorus) daalein; is se jaren aur phutao mazboot hotay hain."
+      },
+      "sources": [
+        {
+          "link": "http://www.parc.gov.pk/index.php/en/faq-s/60-faqs/270-faqs-wheat",
+          "note": "PARC wheat FAQ"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 10,
+      "code": "KPW-FRT-002",
+      "category": "fertilizer",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "نائٹروجن ایک ساتھ نہیں، دو بار میں ڈالیں اور مٹی کے ٹیسٹ کے مطابق رکھیں۔",
+        "roman_ur": "Nitrogen aik saath nahin, do baar mein daalein aur mitti ke test ke mutabiq rakhein."
+      },
+      "sources": [
+        {
+          "link": "http://www.parc.gov.pk/index.php/en/faq-s/60-faqs/270-faqs-wheat",
+          "note": "PARC wheat FAQ"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 11,
+      "code": "KPW-FRT-003",
+      "category": "fertilizer",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "نائٹروجن ضرورت سے زیادہ نہ ڈالیں؛ اس سے پیلا کنگی بڑھتا ہے۔",
+        "roman_ur": "Nitrogen zaroorat se zyada na daalein; is se peela kangi barhta hai."
+      },
+      "sources": [
+        {
+          "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1494566/full",
+          "note": "stripe-rust resistance in recent Pakistani cultivars"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 12,
+      "code": "KPW-IRR-001",
+      "category": "irrigation",
+      "crop_stage": "vegetative",
+      "urgency": "advice",
+      "text": {
+        "ur": "پہلا پانی کاشت کے بیس پچیس دن بعد (جڑ بننے پر) دیں۔",
+        "roman_ur": "Pehla pani kaasht ke 20-25 din baad (jar bannay par) dein."
+      },
+      "sources": [
+        {
+          "link": "http://www.parc.gov.pk/index.php/en/faq-s/60-faqs/270-faqs-wheat",
+          "note": "PARC wheat FAQ"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 13,
+      "code": "KPW-IRR-002",
+      "category": "irrigation",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "پھٹاؤ، گابھے اور دانہ بننے کے وقت پانی کی کمی نہ ہونے دیں۔",
+        "roman_ur": "Phutao, gaabhay aur dana bannay ke waqt pani ki kami na honay dein."
+      },
+      "sources": [
+        {
+          "link": "http://www.parc.gov.pk/index.php/en/faq-s/60-faqs/270-faqs-wheat",
+          "note": "PARC wheat FAQ"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 14,
+      "code": "KPW-IRR-003",
+      "category": "irrigation",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "تیز بارش میں کھیت سے فالتو پانی نکالنے کا بندوبست رکھیں۔",
+        "roman_ur": "Tez barish mein khet se faltu pani nikaalnay ka bandobast rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 15,
+      "code": "KPW-WED-001",
+      "category": "weeds",
+      "crop_stage": "vegetative",
+      "urgency": "advice",
+      "text": {
+        "ur": "جڑی بوٹیاں (جنگلی جئی وغیرہ) شروع میں ہی قابو کریں؛ یہ گندم کی غذا لے جاتی ہیں۔",
+        "roman_ur": "Jari bootiyan (jangli jai waghaira) shuru mein hi qaboo karein; ye gandum ki ghiza le jaati hain."
+      },
+      "sources": [
+        {
+          "link": "http://www.parc.gov.pk/index.php/en/faq-s/60-faqs/270-faqs-wheat",
+          "note": "PARC wheat FAQ"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 16,
+      "code": "KPW-WED-002",
+      "category": "weeds",
+      "crop_stage": "vegetative",
+      "urgency": "advice",
+      "text": {
+        "ur": "جڑی بوٹیوں کی دوا بروقت اور لیبل کے مطابق استعمال کریں؛ افسر سے مشورہ کریں۔",
+        "roman_ur": "Jari bootiyon ki dawa barwaqt aur label ke mutabiq istemal karein; officer se mashwara karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 17,
+      "code": "KPW-DIS-001",
+      "category": "disease_alert",
+      "crop_stage": "vegetative",
+      "urgency": "urgent",
+      "text": {
+        "ur": "پتوں پر پیلے دھاری دار دھبے (پیلا کنگی) نظر آئیں تو فوراً زرعی افسر سے رجوع کریں۔",
+        "roman_ur": "Patton par peelay dhaari-daar dhabbay (peela kangi) nazar aayein to foran zarai officer se rujoo karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1494566/full",
+          "note": "stripe-rust resistance in recent Pakistani cultivars"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 18,
+      "code": "KPW-DIS-002",
+      "category": "disease_alert",
+      "crop_stage": "vegetative",
+      "urgency": "warning",
+      "text": {
+        "ur": "سردی اور دھند میں پیلا کنگی بڑھتا ہے؛ گابھے سے پہلے فصل کا معائنہ کریں۔",
+        "roman_ur": "Sardi aur dhund mein peela kangi barhta hai; gaabhay se pehlay fasal ka moaina karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1494566/full",
+          "note": "stripe-rust resistance in recent Pakistani cultivars"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 19,
+      "code": "KPW-DIS-003",
+      "category": "disease_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "پیلا کنگی سے بچاؤ کے لیے زیادہ نائٹروجن نہ ڈالیں اور مزاحم قسم لگائیں۔",
+        "roman_ur": "Peela kangi se bachao ke liye zyada nitrogen na daalein aur muzahim qism lagayein."
+      },
+      "sources": [
+        {
+          "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1494566/full",
+          "note": "stripe-rust resistance in recent Pakistani cultivars"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 20,
+      "code": "KPW-DIS-004",
+      "category": "disease_alert",
+      "crop_stage": "vegetative",
+      "urgency": "warning",
+      "text": {
+        "ur": "پتوں پر بھورے نارنجی دھبے (بھوری کنگی) ہوں تو معائنہ کریں اور افسر سے مشورہ کریں۔",
+        "roman_ur": "Patton par bhooray narangi dhabbay (bhoori kangi) hon to moaina karein aur officer se mashwara karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1494566/full",
+          "note": "stripe-rust resistance in recent Pakistani cultivars"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 21,
+      "code": "KPW-DIS-005",
+      "category": "disease_alert",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "کھلی کنڈوا سے بچاؤ کے لیے علاج شدہ اور تصدیق شدہ بیج استعمال کریں۔",
+        "roman_ur": "Khuli kandwa se bachao ke liye ilaaj-shuda aur tasdeeq-shuda beej istemal karein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Wheat%20Production%20Technology.pdf",
+          "note": "KP Agri Dept — Wheat Production Technology (official)"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 22,
+      "code": "KPW-PST-001",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "ہر ہفتے کھیت دیکھیں؛ کیڑوں کی تعداد دیکھ کر ہی سپرے کریں۔",
+        "roman_ur": "Har haftay khet dekhein; keeron ki tadaad dekh kar hi spray karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 23,
+      "code": "KPW-PST-002",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "پتوں اور بالوں پر چیپا (ایفڈ) جمع ہو تو معائنہ کریں اور مددگار کیڑے بچائیں۔",
+        "roman_ur": "Patton aur baalon par cheepa (aphid) jama ho to moaina karein aur madadgaar keeray bachayein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 24,
+      "code": "KPW-PST-003",
+      "category": "pest_alert",
+      "crop_stage": "vegetative",
+      "urgency": "warning",
+      "text": {
+        "ur": "دیمک سے پودے مرجھائیں تو بیج یا زمین کا علاج کریں اور کھیت سے کچرا ہٹائیں۔",
+        "roman_ur": "Deemak se poday murjhaayein to beej ya zameen ka ilaaj karein aur khet se kachra hataayein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Wheat%20Production%20Technology.pdf",
+          "note": "KP Agri Dept — Wheat Production Technology (official)"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 25,
+      "code": "KPW-PST-004",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "فوجی سنڈی پتے کھا جائے تو رات کو معائنہ کریں اور افسر سے رجوع کریں۔",
+        "roman_ur": "Fouji sundi pattay kha jaye to raat ko moaina karein aur officer se rujoo karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 26,
+      "code": "KPW-PST-005",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "لیڈی برڈ جیسے مددگار کیڑوں کو بچائیں؛ یہ چیپا کھاتے ہیں۔",
+        "roman_ur": "Lady bird jaisay madadgaar keeron ko bachayein; ye cheepa khatay hain."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 27,
+      "code": "KPW-WEA-001",
+      "category": "weather_alert",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "اگلے {days} دنوں میں تیز بارش متوقع ہے؛ آبپاشی اور کھاد ڈالنا روک دیں۔",
+        "roman_ur": "Aglay {days} dinon mein tez barish mutawaqqa hai; aabpashi aur khaad daalna rok dein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "slots": [
+        {
+          "name": "days",
+          "type": "int",
+          "min": 1,
+          "max": 7
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "code": "KPW-WEA-002",
+      "category": "weather_alert",
+      "crop_stage": "harvest",
+      "urgency": "warning",
+      "text": {
+        "ur": "بارش یا اولوں کا خطرہ ہے؛ پکی فصل بروقت کاٹیں اور ڈھانپ کر خشک رکھیں۔",
+        "roman_ur": "Barish ya olon ka khatra hai; pakki fasal barwaqt kaatein aur dhaanp kar khushk rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 29,
+      "code": "KPW-WEA-003",
+      "category": "weather_alert",
+      "crop_stage": "vegetative",
+      "urgency": "advice",
+      "text": {
+        "ur": "دھند اور نمی میں پیلا کنگی تیزی سے پھیلتا ہے؛ معائنہ بڑھا دیں۔",
+        "roman_ur": "Dhund aur nami mein peela kangi tezi se phailta hai; moaina barha dein."
+      },
+      "sources": [
+        {
+          "link": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1494566/full",
+          "note": "stripe-rust resistance in recent Pakistani cultivars"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 30,
+      "code": "KPW-HRV-001",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "جب دانہ سخت اور بھوسہ پیلا ہو جائے تو کٹائی کریں۔",
+        "roman_ur": "Jab dana sakht aur bhoosa peela ho jaye to katai karein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Wheat%20Production%20Technology.pdf",
+          "note": "KP Agri Dept — Wheat Production Technology (official)"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 31,
+      "code": "KPW-HRV-002",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "پکنے پر بروقت کٹائی کریں تاکہ دانہ جھڑنے سے نقصان نہ ہو۔",
+        "roman_ur": "Paknay par barwaqt katai karein taakay dana jharnay se nuqsaan na ho."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Wheat%20Production%20Technology.pdf",
+          "note": "KP Agri Dept — Wheat Production Technology (official)"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 32,
+      "code": "KPW-HRV-003",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "گہائی کی جگہ صاف رکھیں تاکہ دانہ صاف اور ملاوٹ سے پاک رہے۔",
+        "roman_ur": "Gahai ki jagah saaf rakhein taakay dana saaf aur milaawat se paak rahay."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 33,
+      "code": "KPW-STO-001",
+      "category": "storage",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "دانہ اچھی طرح خشک کر کے صاف اور بند جگہ رکھیں؛ گودام کے کیڑوں سے بچائیں۔",
+        "roman_ur": "Dana achhi tarah khushk kar ke saaf aur band jagah rakhein; godaam ke keeron se bachayein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 34,
+      "code": "KPW-SAF-001",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کرتے وقت دستانے، ماسک اور ڈھکے ہوئے کپڑے پہنیں۔",
+        "roman_ur": "Spray kartay waqt dastanay, mask aur dhakay huay kapray pehnein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 35,
+      "code": "KPW-SAF-002",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "ہوا کے رخ کے خلاف سپرے نہ کریں؛ دوسروں اور جانوروں کو دور رکھیں۔",
+        "roman_ur": "Hawa ke rukh ke khilaaf spray na karein; doosron aur jaanwaron ko door rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 36,
+      "code": "KPW-SAF-003",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کے بعد ہاتھ اور منہ دھوئیں اور کپڑے بدلیں۔",
+        "roman_ur": "Spray ke baad haath aur mooh dhoyein aur kapray badlein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 37,
+      "code": "KPW-SAF-004",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "زہریلی دوا اصل لیبل والے ڈبے میں، کھانے اور بچوں سے دور رکھیں۔",
+        "roman_ur": "Zehreeli dawa asal label walay dabbay mein, khaanay aur bachon se door rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 38,
+      "code": "KPW-SAF-005",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "urgent",
+      "text": {
+        "ur": "زہر لگنے کی علامت (متلی، چکر) پر فوراً طبی مدد لیں اور دوا کا لیبل ساتھ لے جائیں۔",
+        "roman_ur": "Zehr lagnay ki alamat (matli, chakkar) par foran tibbi madad lein aur dawa ka label saath le jayein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 39,
+      "code": "KPW-SAF-006",
+      "category": "safety",
+      "crop_stage": "harvest",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کے بعد لیبل پر دیے گئے وقفے سے پہلے کٹائی نہ کریں۔",
+        "roman_ur": "Spray ke baad label par diye gaye waqfay se pehlay katai na karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with ARI Tarnab / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    }
+  ]
+}

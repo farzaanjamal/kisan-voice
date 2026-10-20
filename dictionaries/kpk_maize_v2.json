@@ -1,0 +1,801 @@
+{
+  "format_version": 2,
+  "dictionary_id": 8,
+  "code": "KPM",
+  "region": "kpk",
+  "crop": "maize",
+  "dictionary_version": 1,
+  "languages": [
+    "ur",
+    "roman_ur"
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "code": "KPM-VAR-001",
+      "category": "variety",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "منظور شدہ مکئی کی قسم کاشت کریں (مثلاً اعظم، جلال، پہاڑی)۔",
+        "roman_ur": "Manzoor-shuda makai ki qism kaasht karein (misaal: Azam, Jalal, Pahari)."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 2,
+      "code": "KPM-VAR-002",
+      "category": "variety",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "صحت مند اور تصدیق شدہ بیج چنیں؛ بیمار بھٹوں سے بیج نہ رکھیں۔",
+        "roman_ur": "Sehatmand aur tasdeeq-shuda beej chunein; bimaar bhutton se beej na rakhein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 3,
+      "code": "KPM-SOW-001",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "warning",
+      "text": {
+        "ur": "مکئی مقررہ وقت پر کاشت کریں؛ دیر سے کاشت پیداوار کم کرتی ہے۔",
+        "roman_ur": "Makai muqarrara waqt par kaasht karein; der se kaasht paidawar kam karti hai."
+      },
+      "sources": [
+        {
+          "link": "https://www.timesofagriculture.pk/maize-production-in-pakistan/",
+          "note": "maize sowing windows / IPM"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 4,
+      "code": "KPM-SOW-002",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "warning",
+      "text": {
+        "ur": "ساتھ والے کھیتوں میں مختلف اوقات پر کاشت نہ کریں؛ اس سے فال آرمی ورم پھیلتا ہے۔",
+        "roman_ur": "Saath walay kheton mein mukhtalif auqaat par kaasht na karein; is se fall armyworm phailta hai."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 5,
+      "code": "KPM-SOW-003",
+      "category": "sowing",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "فصل کے بعد گہری ہل چلائیں تاکہ زمین میں چھپے کیڑے باہر آ کر مر جائیں۔",
+        "roman_ur": "Fasal ke baad gehri hal chalayein taakay zameen mein chhupay keeray bahar aa kar mar jayein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 6,
+      "code": "KPM-SED-001",
+      "category": "seed",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "تصدیق شدہ بیج استعمال کریں۔",
+        "roman_ur": "Tasdeeq-shuda beej istemal karein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 7,
+      "code": "KPM-SED-002",
+      "category": "seed",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "بیج کا علاج کریں تاکہ شوٹ فلائی، تنا چھیدک اور شروع میں فال آرمی ورم سے بچاؤ ہو۔",
+        "roman_ur": "Beej ka ilaaj karein taakay shoot fly, tana chhedak aur shuru mein fall armyworm se bachao ho."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 8,
+      "code": "KPM-FRT-001",
+      "category": "fertilizer",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "کھاد مٹی کے ٹیسٹ کے مطابق ڈالیں اور زرعی افسر سے مشورہ کریں۔",
+        "roman_ur": "Khaad mitti ke test ke mutabiq daalein aur zarai officer se mashwara karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 9,
+      "code": "KPM-FRT-002",
+      "category": "fertilizer",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "مکئی کو نائٹروجن زیادہ چاہیے؛ اسے دو تین بار میں ڈالیں۔",
+        "roman_ur": "Makai ko nitrogen zyada chahiye; ise 2-3 baar mein daalein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 10,
+      "code": "KPM-FRT-003",
+      "category": "fertilizer",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "کاشت کے وقت ڈی اے پی (فاسفورس) ڈالیں تاکہ جڑیں مضبوط ہوں۔",
+        "roman_ur": "Kaasht ke waqt DAP (phosphorus) daalein taakay jaren mazboot hon."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 11,
+      "code": "KPM-IRR-001",
+      "category": "irrigation",
+      "crop_stage": "flowering",
+      "urgency": "warning",
+      "text": {
+        "ur": "بال اور ریشہ آنے کے وقت پانی کی کمی نہ ہونے دیں؛ یہی سب سے نازک وقت ہے۔",
+        "roman_ur": "Baal aur resha aanay ke waqt pani ki kami na honay dein; yehi sab se naazuk waqt hai."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 12,
+      "code": "KPM-IRR-002",
+      "category": "irrigation",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "ہر نازک مرحلے (گھٹنے تک، پھول اور بال) پر مناسب پانی دیں۔",
+        "roman_ur": "Har naazuk marhalay (ghutnay tak, phool aur baal) par munasib pani dein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 13,
+      "code": "KPM-IRR-003",
+      "category": "irrigation",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "تیز بارش میں کھیت سے فالتو پانی نکالنے کا بندوبست رکھیں۔",
+        "roman_ur": "Tez barish mein khet se faltu pani nikaalnay ka bandobast rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 14,
+      "code": "KPM-WED-001",
+      "category": "weeds",
+      "crop_stage": "vegetative",
+      "urgency": "advice",
+      "text": {
+        "ur": "پہلے چار چھ ہفتوں میں جڑی بوٹیاں ختم کریں؛ یہ مکئی کی غذا لے جاتی ہیں۔",
+        "roman_ur": "Pehlay 4-6 hafton mein jari bootiyan khatam karein; ye makai ki ghiza le jaati hain."
+      },
+      "sources": [
+        {
+          "link": "https://www.timesofagriculture.pk/maize-production-in-pakistan/",
+          "note": "maize sowing windows / IPM"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 15,
+      "code": "KPM-WED-002",
+      "category": "weeds",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "کھیت کے کنارے اور اردگرد کی بوٹیاں بھی صاف رکھیں؛ یہ کیڑوں کا ٹھکانہ ہیں۔",
+        "roman_ur": "Khet ke kinaray aur ird-gird ki bootiyan bhi saaf rakhein; ye keeron ka thikana hain."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 16,
+      "code": "KPM-PST-001",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "ہر ہفتے کھیت دیکھیں؛ کیڑوں کی تعداد دیکھ کر ہی سپرے کریں۔",
+        "roman_ur": "Har haftay khet dekhein; keeron ki tadaad dekh kar hi spray karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 17,
+      "code": "KPM-PST-002",
+      "category": "pest_alert",
+      "crop_stage": "vegetative",
+      "urgency": "warning",
+      "text": {
+        "ur": "فال آرمی ورم سے پتوں پر سوراخ اور گوبھ میں بھورا برادہ نظر آئے تو انڈے اور سنڈیاں ہاتھ سے چن کر تلف کریں۔",
+        "roman_ur": "Fall armyworm se patton par suraakh aur gobh mein bhoora burada nazar aaye to anday aur sundiyan haath se chun kar talaf karein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 18,
+      "code": "KPM-PST-003",
+      "category": "pest_alert",
+      "crop_stage": "vegetative",
+      "urgency": "urgent",
+      "text": {
+        "ur": "فال آرمی ورم کا حملہ زیادہ ہو تو زرعی افسر سے مشورہ کر کے عمل کریں۔",
+        "roman_ur": "Fall armyworm ka hamla zyada ho to zarai officer se mashwara kar ke amal karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12027892/",
+          "note": "fall armyworm in Pakistan (study)"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 19,
+      "code": "KPM-PST-004",
+      "category": "pest_alert",
+      "crop_stage": "vegetative",
+      "urgency": "warning",
+      "text": {
+        "ur": "نئی فصل میں مرکزی شگوفہ سوکھ جائے (ڈیڈ ہارٹ) تو تنا چھیدک کا حملہ ہے؛ افسر سے رجوع کریں۔",
+        "roman_ur": "Nai fasal mein markazi shiguufa sookh jaye (dead heart) to tana chhedak ka hamla hai; officer se rujoo karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.khethari.com/blogs/news/pests-and-diseases-of-maize-a-complete-guide-for-farmers",
+          "note": "maize pests/diseases guide — verify CCRI Pirsabak"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 20,
+      "code": "KPM-PST-005",
+      "category": "pest_alert",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "کٹائی کے بعد مڈھ اور باقیات تلف کریں اور گہری ہل چلائیں؛ اس سے تنا چھیدک کم ہوتا ہے۔",
+        "roman_ur": "Katai ke baad mandh aur baqiyaat talaf karein aur gehri hal chalayein; is se tana chhedak kam hota hai."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 21,
+      "code": "KPM-PST-006",
+      "category": "pest_alert",
+      "crop_stage": "seedling",
+      "urgency": "advice",
+      "text": {
+        "ur": "شوٹ فلائی سے چھوٹے پودوں کا شگوفہ سوکھے تو بیج کے علاج اور بروقت کاشت سے بچاؤ کریں۔",
+        "roman_ur": "Shoot fly se chhotay podon ka shiguufa sookhay to beej ke ilaaj aur barwaqt kaasht se bachao karein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 22,
+      "code": "KPM-PST-007",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "پتوں اور پھول پر تیلا (ایفڈ) جمع ہو تو معائنہ کریں اور مددگار کیڑے بچائیں۔",
+        "roman_ur": "Patton aur phool par teela (aphid) jama ho to moaina karein aur madadgaar keeray bachayein."
+      },
+      "sources": [
+        {
+          "link": "https://www.khethari.com/blogs/news/pests-and-diseases-of-maize-a-complete-guide-for-farmers",
+          "note": "maize pests/diseases guide — verify CCRI Pirsabak"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 23,
+      "code": "KPM-PST-008",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "ٹرائیکوگراما اور لیڈی برڈ جیسے مددگار کیڑوں کو بچائیں؛ یہ نقصان دہ کیڑے کھاتے ہیں۔",
+        "roman_ur": "Trichogramma aur lady bird jaisay madadgaar keeron ko bachayein; ye nuqsaan-deh keeray khatay hain."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 24,
+      "code": "KPM-DIS-001",
+      "category": "disease_alert",
+      "crop_stage": "vegetative",
+      "urgency": "warning",
+      "text": {
+        "ur": "پتوں پر لمبے خاکستری سگار نما دھبے (جھلساؤ) ہوں تو مزاحم قسم لگائیں اور مسلسل مکئی نہ کاشت کریں۔",
+        "roman_ur": "Patton par lambay khaakistari cigar-numa dhabbay (jhulsao) hon to muzahim qism lagayein aur musalsal makai na kaasht karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.khethari.com/blogs/news/pests-and-diseases-of-maize-a-complete-guide-for-farmers",
+          "note": "maize pests/diseases guide — verify CCRI Pirsabak"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 25,
+      "code": "KPM-DIS-002",
+      "category": "disease_alert",
+      "crop_stage": "flowering",
+      "urgency": "advice",
+      "text": {
+        "ur": "تنے یا بھٹے میں سڑن ہو تو فاصلہ مناسب رکھیں، زیادہ نمی سے بچیں اور بروقت کٹائی کریں۔",
+        "roman_ur": "Tanay ya bhutte mein sarran ho to faasla munasib rakhein, zyada nami se bachein aur barwaqt katai karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.khethari.com/blogs/news/pests-and-diseases-of-maize-a-complete-guide-for-farmers",
+          "note": "maize pests/diseases guide — verify CCRI Pirsabak"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 26,
+      "code": "KPM-DIS-003",
+      "category": "disease_alert",
+      "crop_stage": "flowering",
+      "urgency": "warning",
+      "text": {
+        "ur": "پھول یا بھٹے کی جگہ سیاہ کنڈوا بنے تو متاثرہ پودے نکالیں اور علاج شدہ بیج استعمال کریں۔",
+        "roman_ur": "Phool ya bhutte ki jagah siyah kandwa banay to mutasira poday nikaalein aur ilaaj-shuda beej istemal karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.khethari.com/blogs/news/pests-and-diseases-of-maize-a-complete-guide-for-farmers",
+          "note": "maize pests/diseases guide — verify CCRI Pirsabak"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 27,
+      "code": "KPM-DIS-004",
+      "category": "disease_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "مکئی کے بعد دوسری فصل کاشت کریں (ردوبدل)؛ مسلسل مکئی بیماریاں بڑھاتی ہے۔",
+        "roman_ur": "Makai ke baad doosri fasal kaasht karein (radd-o-badal); musalsal makai bimariyan barhati hai."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 28,
+      "code": "KPM-WEA-001",
+      "category": "weather_alert",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "اگلے {days} دنوں میں تیز بارش متوقع ہے؛ آبپاشی اور کھاد ڈالنا روک دیں۔",
+        "roman_ur": "Aglay {days} dinon mein tez barish mutawaqqa hai; aabpashi aur khaad daalna rok dein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "slots": [
+        {
+          "name": "days",
+          "type": "int",
+          "min": 1,
+          "max": 7
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "code": "KPM-WEA-002",
+      "category": "weather_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "تیز ہوا یا بارش سے فصل گر سکتی ہے؛ لمبی فصل میں پانی نہ کھڑا کریں اور پکی فصل بروقت کاٹیں۔",
+        "roman_ur": "Tez hawa ya barish se fasal gir sakti hai; lambi fasal mein pani na khara karein aur pakki fasal barwaqt kaatein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 30,
+      "code": "KPM-WEA-003",
+      "category": "weather_alert",
+      "crop_stage": "flowering",
+      "urgency": "advice",
+      "text": {
+        "ur": "بال آنے کے وقت گرمی نقصان دیتی ہے؛ اس وقت پانی ضرور دیں۔",
+        "roman_ur": "Baal aanay ke waqt garmi nuqsaan deti hai; is waqt pani zaroor dein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 31,
+      "code": "KPM-HRV-001",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "جب دانے سخت ہو جائیں اور بھٹے کا چھلکا خشک ہو تو کٹائی کریں۔",
+        "roman_ur": "Jab daanay sakht ho jayein aur bhutte ka chhilka khushk ho to katai karein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 32,
+      "code": "KPM-HRV-002",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "بھٹے کاٹ کر اچھی طرح خشک کریں، پھر دانے نکالیں۔",
+        "roman_ur": "Bhutte kaat kar achhi tarah khushk karein, phir daanay nikaalein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 33,
+      "code": "KPM-HRV-003",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "گہائی اور صفائی صاف جگہ پر کریں تاکہ دانہ صاف رہے۔",
+        "roman_ur": "Gahai aur safai saaf jagah par karein taakay dana saaf rahay."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 34,
+      "code": "KPM-STO-001",
+      "category": "storage",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "دانہ اچھی طرح خشک کر کے (کم نمی) صاف اور بند جگہ رکھیں۔",
+        "roman_ur": "Dana achhi tarah khushk kar ke (kam nami) saaf aur band jagah rakhein."
+      },
+      "sources": [
+        {
+          "link": "https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf",
+          "note": "KP Maize Production Technology (CCRI Pirsabak) — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 35,
+      "code": "KPM-STO-002",
+      "category": "storage",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "ذخیرے میں سسری (ویول) سے بچاؤ کے لیے دانہ خشک رکھیں اور صاف بند برتن استعمال کریں۔",
+        "roman_ur": "Zakheeray mein sussri (weevil) se bachao ke liye dana khushk rakhein aur saaf band bartan istemal karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.khethari.com/blogs/news/pests-and-diseases-of-maize-a-complete-guide-for-farmers",
+          "note": "maize pests/diseases guide — verify CCRI Pirsabak"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 36,
+      "code": "KPM-SAF-001",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کرتے وقت دستانے، ماسک اور ڈھکے ہوئے کپڑے پہنیں۔",
+        "roman_ur": "Spray kartay waqt dastanay, mask aur dhakay huay kapray pehnein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 37,
+      "code": "KPM-SAF-002",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "ہوا کے رخ کے خلاف سپرے نہ کریں؛ دوسروں اور جانوروں کو دور رکھیں۔",
+        "roman_ur": "Hawa ke rukh ke khilaaf spray na karein; doosron aur jaanwaron ko door rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 38,
+      "code": "KPM-SAF-003",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کے بعد ہاتھ اور منہ دھوئیں اور کپڑے بدلیں۔",
+        "roman_ur": "Spray ke baad haath aur mooh dhoyein aur kapray badlein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 39,
+      "code": "KPM-SAF-004",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "زہریلی دوا اصل لیبل والے ڈبے میں، کھانے اور بچوں سے دور رکھیں۔",
+        "roman_ur": "Zehreeli dawa asal label walay dabbay mein, khaanay aur bachon se door rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 40,
+      "code": "KPM-SAF-005",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "urgent",
+      "text": {
+        "ur": "زہر لگنے کی علامت (متلی، چکر) پر فوراً طبی مدد لیں اور دوا کا لیبل ساتھ لے جائیں۔",
+        "roman_ur": "Zehr lagnay ki alamat (matli, chakkar) par foran tibbi madad lein aur dawa ka label saath le jayein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 41,
+      "code": "KPM-SAF-006",
+      "category": "safety",
+      "crop_stage": "harvest",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کے بعد لیبل پر دیے گئے وقفے سے پہلے کٹائی نہ کریں۔",
+        "roman_ur": "Spray ke baad label par diye gaye waqfay se pehlay katai na karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with CCRI Pirsabak / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    }
+  ]
+}

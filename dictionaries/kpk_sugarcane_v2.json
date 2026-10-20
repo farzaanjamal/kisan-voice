@@ -1,0 +1,744 @@
+{
+  "format_version": 2,
+  "dictionary_id": 9,
+  "code": "KPS",
+  "region": "kpk",
+  "crop": "sugarcane",
+  "dictionary_version": 1,
+  "languages": [
+    "ur",
+    "roman_ur"
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "code": "KPS-VAR-001",
+      "category": "variety",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "لال سڑن (ریڈ راٹ) برداشت کرنے والی منظور شدہ قسم کاشت کریں۔",
+        "roman_ur": "Laal sarran (red rot) bardasht karnay wali manzoor-shuda qism kaasht karein."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 2,
+      "code": "KPS-VAR-002",
+      "category": "variety",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "گنے کا بیج (ٹکڑے) صرف صحت مند، بیماری سے پاک فصل سے لیں۔",
+        "roman_ur": "Ganay ka beej (tukray) sirf sehatmand, bimaari se paak fasal se lein."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 3,
+      "code": "KPS-SOW-001",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "warning",
+      "text": {
+        "ur": "خزاں کی فصل ستمبر-اکتوبر میں کاشت کریں؛ بروقت کاشت سے پیداوار اور چینی بہتر ہوتی ہے۔",
+        "roman_ur": "Khizaan ki fasal September-October mein kaasht karein; barwaqt kaasht se paidawar aur cheeni behtar hoti hai."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 4,
+      "code": "KPS-SOW-002",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "تین آنکھوں والے ٹکڑے نوے سینٹی میٹر فاصلے پر، تین سے پانچ سینٹی میٹر گہرائی میں لگائیں۔",
+        "roman_ur": "Teen aankhon walay tukray 90 cm faaslay par, 3 se 5 cm gehrai mein lagayein."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 5,
+      "code": "KPS-SOW-003",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "گنے کے ٹکڑوں کا علاج کریں تاکہ دیمک اور بیماری سے بچاؤ ہو۔",
+        "roman_ur": "Ganay ke tukron ka ilaaj karein taakay deemak aur bimaari se bachao ho."
+      },
+      "sources": [
+        {
+          "link": "http://psst.org.pk/Agriworkshop14/03-ADVANCE%20SUGARCANE%20PRODUCTION%20TECHNOLOGY-RanaZulfiqar%20Ali.pdf",
+          "note": "advanced sugarcane production technology — verify SCRI Mardan"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 6,
+      "code": "KPS-SOW-004",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "کاشت سے پہلے گہری ہل اور ہمواری کریں؛ پھلی دار فصل کے بعد گنا بہتر ہوتا ہے۔",
+        "roman_ur": "Kaasht se pehlay gehri hal aur hamwaari karein; phalidaar fasal ke baad ganna behtar hota hai."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 7,
+      "code": "KPS-FRT-001",
+      "category": "fertilizer",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "کھاد مٹی کے ٹیسٹ کے مطابق ڈالیں اور زرعی افسر سے مشورہ کریں۔",
+        "roman_ur": "Khaad mitti ke test ke mutabiq daalein aur zarai officer se mashwara karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with SCRI Mardan / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 8,
+      "code": "KPS-FRT-002",
+      "category": "fertilizer",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "کاشت کے وقت سارا فاسفورس اور پوٹاش اور نائٹروجن کا کچھ حصہ ڈالیں؛ باقی نائٹروجن قسطوں میں۔",
+        "roman_ur": "Kaasht ke waqt saara phosphorus aur potash aur nitrogen ka kuch hissa daalein; baqi nitrogen qiston mein."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 9,
+      "code": "KPS-FRT-003",
+      "category": "fertilizer",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "نائٹروجن ضرورت سے زیادہ نہ ڈالیں؛ اس سے پائرلا بڑھتا ہے۔",
+        "roman_ur": "Nitrogen zaroorat se zyada na daalein; is se pyrilla barhta hai."
+      },
+      "sources": [
+        {
+          "link": "https://www.timesofagriculture.pk/sugarcane-farming-in-pakistan-2025/",
+          "note": "sugarcane practices (planting, harvest, pyrilla)"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 10,
+      "code": "KPS-IRR-001",
+      "category": "irrigation",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "گنے کو پوری نشوونما میں مناسب پانی دیں۔",
+        "roman_ur": "Ganay ko poori nashonuma mein munasib pani dein."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 11,
+      "code": "KPS-IRR-002",
+      "category": "irrigation",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "کھیت میں پانی کھڑا نہ رہنے دیں؛ زیادہ پانی سے تنا چھیدک اور لال سڑن بڑھتے ہیں۔",
+        "roman_ur": "Khet mein pani khara na rehnay dein; zyada pani se tana chhedak aur laal sarran barhtay hain."
+      },
+      "sources": [
+        {
+          "link": "http://psst.org.pk/Agriworkshop14/03-ADVANCE%20SUGARCANE%20PRODUCTION%20TECHNOLOGY-RanaZulfiqar%20Ali.pdf",
+          "note": "advanced sugarcane production technology — verify SCRI Mardan"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 12,
+      "code": "KPS-IRR-003",
+      "category": "irrigation",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "کٹائی سے کچھ پہلے پانی کم کر دیں تاکہ چینی کی مقدار بہتر ہو۔",
+        "roman_ur": "Katai se kuch pehlay pani kam kar dein taakay cheeni ki miqdaar behtar ho."
+      },
+      "sources": [
+        {
+          "link": "https://www.timesofagriculture.pk/sugarcane-farming-in-pakistan-2025/",
+          "note": "sugarcane practices (planting, harvest, pyrilla)"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 13,
+      "code": "KPS-WED-001",
+      "category": "weeds",
+      "crop_stage": "vegetative",
+      "urgency": "advice",
+      "text": {
+        "ur": "شروع کے سو دنوں میں جڑی بوٹیاں ختم کریں اور دو بار گوڈی کریں۔",
+        "roman_ur": "Shuru ke 100 dinon mein jari bootiyan khatam karein aur do baar godi karein."
+      },
+      "sources": [
+        {
+          "link": "http://psst.org.pk/Agriworkshop14/03-ADVANCE%20SUGARCANE%20PRODUCTION%20TECHNOLOGY-RanaZulfiqar%20Ali.pdf",
+          "note": "advanced sugarcane production technology — verify SCRI Mardan"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 14,
+      "code": "KPS-WED-002",
+      "category": "weeds",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "کھیت کے کنارے اور اردگرد صفائی رکھیں؛ یہ کیڑوں کا ٹھکانہ ہیں۔",
+        "roman_ur": "Khet ke kinaray aur ird-gird safai rakhein; ye keeron ka thikana hain."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 15,
+      "code": "KPS-PST-001",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "ہر ہفتے کھیت دیکھیں؛ کیڑوں کی تعداد دیکھ کر ہی سپرے کریں۔",
+        "roman_ur": "Har haftay khet dekhein; keeron ki tadaad dekh kar hi spray karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with SCRI Mardan / KP Agri Dept"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 16,
+      "code": "KPS-PST-002",
+      "category": "pest_alert",
+      "crop_stage": "vegetative",
+      "urgency": "warning",
+      "text": {
+        "ur": "نئی فصل میں مرکزی شگوفہ سوکھ جائے تو چھیدک (گڑوا) کا حملہ ہے؛ متاثرہ شگوفے کاٹ کر تلف کریں اور افسر سے رجوع کریں۔",
+        "roman_ur": "Nai fasal mein markazi shiguufa sookh jaye to chhedak (gurwa) ka hamla hai; mutasira shigufay kaat kar talaf karein aur officer se rujoo karein."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 17,
+      "code": "KPS-PST-003",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "کھیت سے سوکھا کچرا اور باقیات بروقت ہٹا کر تلف کریں؛ اس سے چھیدک کم ہوتے ہیں۔",
+        "roman_ur": "Khet se sookha kachra aur baqiyaat barwaqt hata kar talaf karein; is se chhedak kam hotay hain."
+      },
+      "sources": [
+        {
+          "link": "http://parc.gov.pk/index.php/en/csi/137-narc/crop-sciences-institue/711-sugar-crops-research-program",
+          "note": "PARC Sugar Crops Research Program"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 18,
+      "code": "KPS-PST-004",
+      "category": "pest_alert",
+      "crop_stage": "vegetative",
+      "urgency": "advice",
+      "text": {
+        "ur": "مئی-جون میں مٹی چڑھائیں؛ اس سے گرداسپور چھیدک باہر نہیں آ پاتا۔",
+        "roman_ur": "May-June mein mitti charhayein; is se Gurdaspur chhedak bahar nahin aa paata."
+      },
+      "sources": [
+        {
+          "link": "http://parc.gov.pk/index.php/en/csi/137-narc/crop-sciences-institue/711-sugar-crops-research-program",
+          "note": "PARC Sugar Crops Research Program"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 19,
+      "code": "KPS-PST-005",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "پتوں پر چپچپاہٹ اور سیاہ کالک (پائرلا) ہو تو زیادہ نائٹروجن نہ ڈالیں اور افسر سے مشورہ کریں۔",
+        "roman_ur": "Patton par chipchipaahat aur siyah kaalik (pyrilla) ho to zyada nitrogen na daalein aur officer se mashwara karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.timesofagriculture.pk/sugarcane-farming-in-pakistan-2025/",
+          "note": "sugarcane practices (planting, harvest, pyrilla)"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 20,
+      "code": "KPS-PST-006",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "چھیدک اور پائرلا کے خلاف مددگار کیڑے (ٹرائیکوگراما، ایپی ریکینیا) استعمال کریں؛ یہ ادارے سے ملتے ہیں۔",
+        "roman_ur": "Chhedak aur pyrilla ke khilaaf madadgaar keeray (Trichogramma, Epiricania) istemal karein; ye idaaray se miltay hain."
+      },
+      "sources": [
+        {
+          "link": "http://parc.gov.pk/index.php/en/csi/137-narc/crop-sciences-institue/711-sugar-crops-research-program",
+          "note": "PARC Sugar Crops Research Program"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 21,
+      "code": "KPS-PST-007",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "چھیدک پتنگوں کو پکڑنے کے لیے مارچ تا اکتوبر روشنی کے جال (لائٹ ٹریپ) لگائیں۔",
+        "roman_ur": "Chhedak patangon ko pakarnay ke liye March ta October roshni ke jaal (light trap) lagayein."
+      },
+      "sources": [
+        {
+          "link": "http://psst.org.pk/Agriworkshop14/03-ADVANCE%20SUGARCANE%20PRODUCTION%20TECHNOLOGY-RanaZulfiqar%20Ali.pdf",
+          "note": "advanced sugarcane production technology — verify SCRI Mardan"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 22,
+      "code": "KPS-PST-008",
+      "category": "pest_alert",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "زیادہ متاثرہ کھیت کی مونڈھی (رتون) نہ رکھیں۔",
+        "roman_ur": "Zyada mutasira khet ki moondhi (ratoon) na rakhein."
+      },
+      "sources": [
+        {
+          "link": "http://psst.org.pk/Agriworkshop14/03-ADVANCE%20SUGARCANE%20PRODUCTION%20TECHNOLOGY-RanaZulfiqar%20Ali.pdf",
+          "note": "advanced sugarcane production technology — verify SCRI Mardan"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 23,
+      "code": "KPS-DIS-001",
+      "category": "disease_alert",
+      "crop_stage": "vegetative",
+      "urgency": "urgent",
+      "text": {
+        "ur": "اوپر کے پتے پیلے ہو کر سوکھیں اور تنا چیر کر اندر سرخ رنگ میں سفید دھبے اور کھٹی بو ہو تو یہ لال سڑن ہے۔",
+        "roman_ur": "Ooper ke pattay peelay ho kar sookhein aur tana cheer kar andar surkh rang mein safaid dhabbay aur khatti boo ho to ye laal sarran hai."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 24,
+      "code": "KPS-DIS-002",
+      "category": "disease_alert",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "لال سڑن کا علاج نہیں؛ مزاحم قسم اور بیماری سے پاک بیج لگائیں اور متاثرہ جھنڈ نکال کر تلف کریں۔",
+        "roman_ur": "Laal sarran ka ilaaj nahin; muzahim qism aur bimaari se paak beej lagayein aur mutasira jhund nikaal kar talaf karein."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 25,
+      "code": "KPS-DIS-003",
+      "category": "disease_alert",
+      "crop_stage": "flowering",
+      "urgency": "advice",
+      "text": {
+        "ur": "چابک جیسی سیاہ بیماری (کنڈوا) والے پودے نکال کر تلف کریں اور مزاحم قسم لگائیں۔",
+        "roman_ur": "Chaabuk jaisi siyah bimaari (kandwa) walay poday nikaal kar talaf karein aur muzahim qism lagayein."
+      },
+      "sources": [
+        {
+          "link": "http://psst.org.pk/Agriworkshop14/03-ADVANCE%20SUGARCANE%20PRODUCTION%20TECHNOLOGY-RanaZulfiqar%20Ali.pdf",
+          "note": "advanced sugarcane production technology — verify SCRI Mardan"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 26,
+      "code": "KPS-DIS-004",
+      "category": "disease_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "پتلی اور بونی مونڈھی سے بچنے کے لیے بیماری سے پاک بیج استعمال کریں اور فصلوں میں ردوبدل کریں۔",
+        "roman_ur": "Patli aur bonay moondhi se bachnay ke liye bimaari se paak beej istemal karein aur faslon mein radd-o-badal karein."
+      },
+      "sources": [
+        {
+          "link": "http://psst.org.pk/Agriworkshop14/03-ADVANCE%20SUGARCANE%20PRODUCTION%20TECHNOLOGY-RanaZulfiqar%20Ali.pdf",
+          "note": "advanced sugarcane production technology — verify SCRI Mardan"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 27,
+      "code": "KPS-WEA-001",
+      "category": "weather_alert",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "اگلے {days} دنوں میں تیز بارش متوقع ہے؛ کھیت سے فالتو پانی نکالیں اور کھاد ڈالنا روک دیں۔",
+        "roman_ur": "Aglay {days} dinon mein tez barish mutawaqqa hai; khet se faltu pani nikaalein aur khaad daalna rok dein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with SCRI Mardan / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "slots": [
+        {
+          "name": "days",
+          "type": "int",
+          "min": 1,
+          "max": 7
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "code": "KPS-WEA-002",
+      "category": "weather_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "سردی اور کہر سے بچاؤ کے لیے بروقت کاشت کریں اور مٹی چڑھائیں۔",
+        "roman_ur": "Sardi aur kahr se bachao ke liye barwaqt kaasht karein aur mitti charhayein."
+      },
+      "sources": [
+        {
+          "link": "https://agrires.kp.gov.pk/page/sugar_crops_research_institute_mardan_khyber_pakhtunkhwa",
+          "note": "SCRI Mardan (KP) production technology — official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 29,
+      "code": "KPS-WEA-003",
+      "category": "weather_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "تیز ہوا میں گنا گرنے سے بچانے کے لیے سہارا دیں یا باندھیں۔",
+        "roman_ur": "Tez hawa mein ganna girnay se bachanay ke liye sahaara dein ya baandhein."
+      },
+      "sources": [
+        {
+          "link": "http://psst.org.pk/Agriworkshop14/03-ADVANCE%20SUGARCANE%20PRODUCTION%20TECHNOLOGY-RanaZulfiqar%20Ali.pdf",
+          "note": "advanced sugarcane production technology — verify SCRI Mardan"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 30,
+      "code": "KPS-HRV-001",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "گنا پوری پختگی پر کاٹیں تاکہ چینی کی مقدار زیادہ ہو۔",
+        "roman_ur": "Ganna poori pukhtagi par kaatein taakay cheeni ki miqdaar zyada ho."
+      },
+      "sources": [
+        {
+          "link": "https://www.timesofagriculture.pk/sugarcane-farming-in-pakistan-2025/",
+          "note": "sugarcane practices (planting, harvest, pyrilla)"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 31,
+      "code": "KPS-HRV-002",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "کٹائی کے وقت پتے اچھی طرح اتاریں تاکہ گنا صاف رہے۔",
+        "roman_ur": "Katai ke waqt pattay achhi tarah utaarein taakay ganna saaf rahay."
+      },
+      "sources": [
+        {
+          "link": "https://www.timesofagriculture.pk/sugarcane-farming-in-pakistan-2025/",
+          "note": "sugarcane practices (planting, harvest, pyrilla)"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 32,
+      "code": "KPS-HRV-003",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "warning",
+      "text": {
+        "ur": "کاٹا ہوا گنا چوبیس سے اڑتالیس گھنٹوں میں مل تک پہنچائیں؛ دیر سے چینی کم ہو جاتی ہے۔",
+        "roman_ur": "Kaata hua ganna 24 se 48 ghanton mein mill tak pohanchayein; der se cheeni kam ho jaati hai."
+      },
+      "sources": [
+        {
+          "link": "https://www.timesofagriculture.pk/sugarcane-farming-in-pakistan-2025/",
+          "note": "sugarcane practices (planting, harvest, pyrilla)"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 33,
+      "code": "KPS-SAF-001",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کرتے وقت دستانے، ماسک اور ڈھکے ہوئے کپڑے پہنیں۔",
+        "roman_ur": "Spray kartay waqt dastanay, mask aur dhakay huay kapray pehnein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with SCRI Mardan / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 34,
+      "code": "KPS-SAF-002",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "ہوا کے رخ کے خلاف سپرے نہ کریں؛ دوسروں اور جانوروں کو دور رکھیں۔",
+        "roman_ur": "Hawa ke rukh ke khilaaf spray na karein; doosron aur jaanwaron ko door rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with SCRI Mardan / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 35,
+      "code": "KPS-SAF-003",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کے بعد ہاتھ اور منہ دھوئیں اور کپڑے بدلیں۔",
+        "roman_ur": "Spray ke baad haath aur mooh dhoyein aur kapray badlein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with SCRI Mardan / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 36,
+      "code": "KPS-SAF-004",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "زہریلی دوا اصل لیبل والے ڈبے میں، کھانے اور بچوں سے دور رکھیں۔",
+        "roman_ur": "Zehreeli dawa asal label walay dabbay mein, khaanay aur bachon se door rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with SCRI Mardan / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 37,
+      "code": "KPS-SAF-005",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "urgent",
+      "text": {
+        "ur": "زہر لگنے کی علامت (متلی، چکر) پر فوراً طبی مدد لیں اور دوا کا لیبل ساتھ لے جائیں۔",
+        "roman_ur": "Zehr lagnay ki alamat (matli, chakkar) par foran tibbi madad lein aur dawa ka label saath le jayein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with SCRI Mardan / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 38,
+      "code": "KPS-SAF-006",
+      "category": "safety",
+      "crop_stage": "harvest",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کے بعد لیبل پر دیے گئے وقفے سے پہلے کٹائی نہ کریں۔",
+        "roman_ur": "Spray ke baad label par diye gaye waqfay se pehlay katai na karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "confirm with SCRI Mardan / KP Agri Dept"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    }
+  ]
+}

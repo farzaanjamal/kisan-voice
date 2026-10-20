@@ -1,0 +1,801 @@
+{
+  "format_version": 2,
+  "dictionary_id": 1,
+  "code": "PCT",
+  "region": "punjab",
+  "crop": "cotton",
+  "dictionary_version": 2,
+  "languages": [
+    "ur",
+    "roman_ur"
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "code": "PCT-DIS-001",
+      "category": "disease_alert",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "پتہ مروڑ وائرس سے بچاؤ: جلد کاشت کریں، متوازن کھاد دیں اور جڑی بوٹیاں ختم کریں۔",
+        "roman_ur": "Patta maror virus se bachao: jald kaasht karein, mutawazin khaad dein aur jari bootiyan khatam karein."
+      },
+      "sources": [
+        {
+          "link": "https://mel.cgiar.org/projects/205",
+          "note": "CCRI Multan CLCuV — verify official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 2,
+      "code": "PCT-DIS-002",
+      "category": "disease_alert",
+      "crop_stage": "any",
+      "urgency": "urgent",
+      "text": {
+        "ur": "پتہ مروڑ والے پودے فوراً نکال کر تلف کریں تاکہ وائرس آگے نہ پھیلے۔",
+        "roman_ur": "Patta maror walay poday foran nikaal kar talaf karein taakay virus aagay na phaile."
+      },
+      "sources": [
+        {
+          "link": "https://mel.cgiar.org/projects/205",
+          "note": "CCRI Multan CLCuV — verify official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 3,
+      "code": "PCT-DIS-003",
+      "category": "disease_alert",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "سفید مکھی پتہ مروڑ وائرس پھیلاتی ہے؛ اس کی تعداد پر نظر رکھیں اور قابو کریں۔",
+        "roman_ur": "Safaid makhi patta maror virus phailati hai; is ki tadaad par nazar rakhein aur qaboo karein."
+      },
+      "sources": [
+        {
+          "link": "https://mel.cgiar.org/projects/205",
+          "note": "CCRI Multan CLCuV — verify official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 4,
+      "code": "PCT-DIS-004",
+      "category": "disease_alert",
+      "crop_stage": "vegetative",
+      "urgency": "warning",
+      "text": {
+        "ur": "کپاس میں بیکٹیریل بلائٹ کی علامت ہو تو متاثرہ پتے ہٹائیں اور زرعی افسر سے رجوع کریں۔",
+        "roman_ur": "Kapas mein bacterial blight ki alamat ho to mutasira pattay hataayein aur zarai officer se rujoo karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 5,
+      "code": "PCT-DIS-005",
+      "category": "disease_alert",
+      "crop_stage": "harvest",
+      "urgency": "warning",
+      "text": {
+        "ur": "زیادہ نمی میں بول سڑ سکتے ہیں؛ ہوا کا گزر رکھیں اور بروقت چنائی کریں۔",
+        "roman_ur": "Zyada nami mein bol sarr saktay hain; hawa ka guzar rakhein aur barwaqt chunai karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 6,
+      "code": "PCT-VAR-001",
+      "category": "variety",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "کاشت کے لیے پتہ مروڑ وائرس برداشت کرنے والی منظور شدہ قسم چنیں۔",
+        "roman_ur": "Kaasht ke liye patta maror virus bardasht karnay wali manzoor-shuda qism chunein."
+      },
+      "sources": [
+        {
+          "link": "https://mel.cgiar.org/projects/205",
+          "note": "CCRI Multan CLCuV — verify official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 7,
+      "code": "PCT-SOW-001",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "کپاس اپریل سے وسط مئی میں کاشت کریں؛ بہت دیر سے کاشت نقصان دہ ہے۔",
+        "roman_ur": "Kapas April se wast-e-May mein kaasht karein; bohat der se kaasht nuqsaan-deh hai."
+      },
+      "sources": [
+        {
+          "link": "https://irfarm.com/blogs/latest/seasonal-crop-calendar-pakistan-month-by-month-guide",
+          "note": "crop calendar — verify PAD/AARI"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 8,
+      "code": "PCT-SOW-002",
+      "category": "sowing",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "جلد کاشت سے پتہ مروڑ وائرس کا خطرہ کم ہوتا ہے۔",
+        "roman_ur": "Jald kaasht se patta maror virus ka khatra kam hota hai."
+      },
+      "sources": [
+        {
+          "link": "https://mel.cgiar.org/projects/205",
+          "note": "CCRI Multan CLCuV — verify official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 9,
+      "code": "PCT-SED-001",
+      "category": "seed",
+      "crop_stage": "sowing",
+      "urgency": "advice",
+      "text": {
+        "ur": "تصدیق شدہ اور علاج شدہ بیج استعمال کریں؛ مقدار کے لیے زرعی افسر سے مشورہ کریں۔",
+        "roman_ur": "Tasdeeq-shuda aur ilaaj-shuda beej istemal karein; miqdaar ke liye zarai officer se mashwara karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 10,
+      "code": "PCT-FRT-001",
+      "category": "fertilizer",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "کھاد مٹی کے ٹیسٹ کے مطابق ڈالیں اور زرعی افسر سے مشورہ کریں۔",
+        "roman_ur": "Khaad mitti ke test ke mutabiq daalein aur zarai officer se mashwara karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 11,
+      "code": "PCT-FRT-002",
+      "category": "fertilizer",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "نائٹروجن ضرورت سے زیادہ نہ ڈالیں؛ اس سے سفید مکھی اور وائرس بڑھتے ہیں۔",
+        "roman_ur": "Nitrogen zaroorat se zyada na daalein; is se safaid makhi aur virus barhtay hain."
+      },
+      "sources": [
+        {
+          "link": "https://mel.cgiar.org/projects/205",
+          "note": "CCRI Multan CLCuV — verify official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 12,
+      "code": "PCT-FRT-003",
+      "category": "fertilizer",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "متوازن کھاد (این، پی، کے) دیں تاکہ فصل مضبوط رہے۔",
+        "roman_ur": "Mutawazin khaad (N, P, K) dein taakay fasal mazboot rahay."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 13,
+      "code": "PCT-IRR-001",
+      "category": "irrigation",
+      "crop_stage": "flowering",
+      "urgency": "advice",
+      "text": {
+        "ur": "پھول آنے پر کپاس کو پانی کی کمی نہ ہونے دیں۔",
+        "roman_ur": "Phool aanay par kapas ko pani ki kami na honay dein."
+      },
+      "sources": [
+        {
+          "link": "https://irfarm.com/blogs/latest/seasonal-crop-calendar-pakistan-month-by-month-guide",
+          "note": "crop calendar — verify PAD/AARI"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 14,
+      "code": "PCT-IRR-002",
+      "category": "irrigation",
+      "crop_stage": "boll",
+      "urgency": "advice",
+      "text": {
+        "ur": "بول بننے کے وقت پانی باقاعدگی سے دیں۔",
+        "roman_ur": "Bol bannay ke waqt pani baqaidagi se dein."
+      },
+      "sources": [
+        {
+          "link": "https://irfarm.com/blogs/latest/seasonal-crop-calendar-pakistan-month-by-month-guide",
+          "note": "crop calendar — verify PAD/AARI"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 15,
+      "code": "PCT-IRR-003",
+      "category": "irrigation",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "تیز بارش میں کھیت سے فالتو پانی نکالنے کا بندوبست رکھیں۔",
+        "roman_ur": "Tez barish mein khet se faltu pani nikaalnay ka bandobast rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 16,
+      "code": "PCT-WED-001",
+      "category": "weeds",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "کھیت اور اردگرد جڑی بوٹیاں ختم کریں؛ یہ سفید مکھی اور وائرس کا ٹھکانہ ہیں۔",
+        "roman_ur": "Khet aur ird-gird jari bootiyan khatam karein; ye safaid makhi aur virus ka thikana hain."
+      },
+      "sources": [
+        {
+          "link": "https://mel.cgiar.org/projects/205",
+          "note": "CCRI Multan CLCuV — verify official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 17,
+      "code": "PCT-PST-001",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "ہر ہفتے کھیت کا معائنہ کریں؛ کیڑوں کی تعداد دیکھ کر ہی سپرے کریں۔",
+        "roman_ur": "Har haftay khet ka moaina karein; keeron ki tadaad dekh kar hi spray karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/figure/Economic-Threshold-Levels-ETLs-of-major-insect-pests-of-cotton_tbl1_281188213",
+          "note": "IPM/ETL — verify official"
+        }
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": 18,
+      "code": "PCT-PST-002",
+      "category": "pest_alert",
+      "crop_stage": "flowering",
+      "urgency": "warning",
+      "text": {
+        "ur": "اگر سفید مکھی ہر پتے پر چار پانچ سے زیادہ ہو تو افسر سے مشورہ کر کے عمل کریں۔",
+        "roman_ur": "Agar safaid makhi har pattay par 4-5 se zyada ho to officer se mashwara kar ke amal karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/publication/336834366",
+          "note": "Punjab Pakistan ETL study — verify with CCRI/PAD"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 19,
+      "code": "PCT-PST-003",
+      "category": "pest_alert",
+      "crop_stage": "vegetative",
+      "urgency": "warning",
+      "text": {
+        "ur": "جیسڈ سے پتوں کے کنارے پیلے ہو کر مڑ جائیں تو معائنہ کریں اور ضرورت پر افسر سے رجوع کریں۔",
+        "roman_ur": "Jassid se patton ke kinaray peelay ho kar murr jaayein to moaina karein aur zaroorat par officer se rujoo karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/publication/336834366",
+          "note": "Punjab Pakistan ETL study — verify with CCRI/PAD"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 20,
+      "code": "PCT-PST-004",
+      "category": "pest_alert",
+      "crop_stage": "boll",
+      "urgency": "urgent",
+      "text": {
+        "ur": "نرم کچے بول اور گلابی سنڈی نظر آئے تو متاثرہ بول توڑ کر تلف کریں اور افسر سے رابطہ کریں۔",
+        "roman_ur": "Naram kachay bol aur gulabi sundi nazar aaye to mutasira bol torr kar talaf karein aur officer se rabta karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/figure/Economic-Threshold-Levels-ETLs-of-major-insect-pests-of-cotton_tbl1_281188213",
+          "note": "IPM/ETL — verify official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 21,
+      "code": "PCT-PST-005",
+      "category": "pest_alert",
+      "crop_stage": "fruiting",
+      "urgency": "warning",
+      "text": {
+        "ur": "اگر پانچ فیصد پھل یا بول کیڑے سے خراب ہوں تو افسر سے مشورہ کریں۔",
+        "roman_ur": "Agar 5 percent phal ya bol keeray se kharab hon to officer se mashwara karein."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/figure/Economic-Threshold-Levels-ETLs-of-major-insect-pests-of-cotton_tbl1_281188213",
+          "note": "IPM/ETL — verify official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 22,
+      "code": "PCT-PST-006",
+      "category": "pest_alert",
+      "crop_stage": "boll",
+      "urgency": "advice",
+      "text": {
+        "ur": "گلابی سنڈی کی نگرانی کے لیے کھیت میں فیرومون ٹریپ لگائیں۔",
+        "roman_ur": "Gulabi sundi ki nigrani ke liye khet mein pheromone trap lagaayein."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/figure/Economic-Threshold-Levels-ETLs-of-major-insect-pests-of-cotton_tbl1_281188213",
+          "note": "IPM/ETL — verify official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 23,
+      "code": "PCT-PST-007",
+      "category": "pest_alert",
+      "crop_stage": "seedling",
+      "urgency": "advice",
+      "text": {
+        "ur": "تھرپس سے نئے پتے مڑ سکتے ہیں؛ عموماً سپرے کی ضرورت نہیں، معائنہ کرتے رہیں۔",
+        "roman_ur": "Thrips se naye pattay murr saktay hain; umooman spray ki zaroorat nahin, moaina kartay rahein."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/publication/336834366",
+          "note": "Punjab Pakistan ETL study — verify with CCRI/PAD"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 24,
+      "code": "PCT-PST-008",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "میلی بگ نظر آئے تو متاثرہ شاخیں ہٹائیں اور اردگرد صفائی رکھیں۔",
+        "roman_ur": "Mealybug nazar aaye to mutasira shaakhein hataayein aur ird-gird safai rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 25,
+      "code": "PCT-PST-009",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "غیر ضروری سپرے سے گریز کریں؛ اس سے کیڑے دوا کے خلاف مزاحم ہو جاتے ہیں۔",
+        "roman_ur": "Ghair-zaroori spray se gurez karein; is se keeray dawa ke khilaaf muzahim ho jaatay hain."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/figure/Economic-Threshold-Levels-ETLs-of-major-insect-pests-of-cotton_tbl1_281188213",
+          "note": "IPM/ETL — verify official"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 26,
+      "code": "PCT-PST-010",
+      "category": "pest_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "لیڈی برڈ جیسے مددگار کیڑوں کو بچائیں؛ یہ نقصان دہ کیڑے کھاتے ہیں۔",
+        "roman_ur": "Lady bird jaisay madadgaar keeron ko bachaayein; ye nuqsaan-deh keeray khaatay hain."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/figure/Economic-Threshold-Levels-ETLs-of-major-insect-pests-of-cotton_tbl1_281188213",
+          "note": "IPM/ETL — verify official"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 27,
+      "code": "PCT-WEA-001",
+      "category": "weather_alert",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "اگلے {days} دنوں میں تیز بارش متوقع ہے؛ آبپاشی اور کھاد ڈالنا روک دیں۔",
+        "roman_ur": "Aglay {days} dinon mein tez barish mutawaqqa hai; aabpashi aur khaad daalna rok dein."
+      },
+      "sources": [
+        {
+          "link": "https://irfarm.com/blogs/latest/seasonal-crop-calendar-pakistan-month-by-month-guide",
+          "note": "crop calendar — verify PAD/AARI"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "slots": [
+        {
+          "name": "days",
+          "type": "int",
+          "min": 1,
+          "max": 7
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "code": "PCT-WEA-002",
+      "category": "weather_alert",
+      "crop_stage": "harvest",
+      "urgency": "warning",
+      "text": {
+        "ur": "بارش متوقع ہے؛ چنائی خشک موسم تک روک دیں اور چنی ہوئی روئی ڈھانپ کر رکھیں۔",
+        "roman_ur": "Barish mutawaqqa hai; chunai khushk mausam tak rok dein aur chuni hui rooi dhaanp kar rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 29,
+      "code": "PCT-WEA-003",
+      "category": "weather_alert",
+      "crop_stage": "any",
+      "urgency": "advice",
+      "text": {
+        "ur": "گرمی کی لہر کے بعد سفید مکھی تیزی سے بڑھتی ہے؛ معائنہ بڑھا دیں۔",
+        "roman_ur": "Garmi ki lehar ke baad safaid makhi tezi se barhti hai; moaina barha dein."
+      },
+      "sources": [
+        {
+          "link": "https://www.researchgate.net/publication/336834366",
+          "note": "Punjab Pakistan ETL study — verify with CCRI/PAD"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 30,
+      "code": "PCT-WEA-004",
+      "category": "weather_alert",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "زیادہ نمی میں بول سڑنے کا خطرہ ہے؛ بروقت چنائی کریں۔",
+        "roman_ur": "Zyada nami mein bol sarnay ka khatra hai; barwaqt chunai karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 31,
+      "code": "PCT-HRV-001",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "چنائی اوس ختم ہونے کے بعد، خشک موسم میں کریں۔",
+        "roman_ur": "Chunai os khatam honay ke baad, khushk mausam mein karein."
+      },
+      "sources": [
+        {
+          "link": "https://irfarm.com/blogs/latest/seasonal-crop-calendar-pakistan-month-by-month-guide",
+          "note": "crop calendar — verify PAD/AARI"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 32,
+      "code": "PCT-HRV-002",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "چنائی باقاعدگی سے کریں تاکہ روئی زمین پر گر کر خراب نہ ہو۔",
+        "roman_ur": "Chunai baqaidagi se karein taakay rooi zameen par gir kar kharab na ho."
+      },
+      "sources": [
+        {
+          "link": "https://irfarm.com/blogs/latest/seasonal-crop-calendar-pakistan-month-by-month-guide",
+          "note": "crop calendar — verify PAD/AARI"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 33,
+      "code": "PCT-HRV-003",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "روئی کو مٹی، پتوں اور دھاگوں سے پاک رکھیں تاکہ معیار بہتر رہے۔",
+        "roman_ur": "Rooi ko mitti, patton aur dhaagon se paak rakhein taakay miyaar behtar rahay."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 34,
+      "code": "PCT-HRV-004",
+      "category": "harvest",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "داغ دار یا گیلی روئی الگ رکھیں تاکہ اچھی روئی خراب نہ ہو۔",
+        "roman_ur": "Daagh-daar ya geeli rooi alag rakhein taakay achhi rooi kharab na ho."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 35,
+      "code": "PCT-STO-001",
+      "category": "storage",
+      "crop_stage": "harvest",
+      "urgency": "advice",
+      "text": {
+        "ur": "چنی ہوئی روئی خشک اور صاف جگہ رکھیں؛ نمی سے بچائیں۔",
+        "roman_ur": "Chuni hui rooi khushk aur saaf jagah rakhein; nami se bachaayein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": 36,
+      "code": "PCT-SAF-001",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کرتے وقت دستانے، ماسک اور ڈھکے ہوئے کپڑے پہنیں۔",
+        "roman_ur": "Spray kartay waqt dastanay, mask aur dhakay huay kapray pehnein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 37,
+      "code": "PCT-SAF-002",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "ہوا کے رخ کے خلاف سپرے نہ کریں؛ دوسروں اور جانوروں کو دور رکھیں۔",
+        "roman_ur": "Hawa ke rukh ke khilaaf spray na karein; doosron aur jaanwaron ko door rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 38,
+      "code": "PCT-SAF-003",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کے بعد ہاتھ اور منہ دھوئیں اور کپڑے بدلیں۔",
+        "roman_ur": "Spray ke baad haath aur mooh dhoyein aur kapray badlein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 39,
+      "code": "PCT-SAF-004",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "warning",
+      "text": {
+        "ur": "زہریلی دوا اصل لیبل والے ڈبے میں، کھانے اور بچوں سے دور رکھیں۔",
+        "roman_ur": "Zehreeli dawa asal label walay dabbay mein, khaanay aur bachon se door rakhein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 40,
+      "code": "PCT-SAF-005",
+      "category": "safety",
+      "crop_stage": "any",
+      "urgency": "urgent",
+      "text": {
+        "ur": "زہر لگنے کی علامت (متلی، چکر) پر فوراً طبی مدد لیں اور دوا کا لیبل ساتھ لے جائیں۔",
+        "roman_ur": "Zehr lagnay ki alamat (matli, chakkar) par foran tibbi madad lein aur dawa ka label saath le jaayein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": 41,
+      "code": "PCT-SAF-006",
+      "category": "safety",
+      "crop_stage": "harvest",
+      "urgency": "warning",
+      "text": {
+        "ur": "سپرے کے بعد لیبل پر دیے گئے وقفے سے پہلے چنائی نہ کریں۔",
+        "roman_ur": "Spray ke baad label par diye gaye waqfay se pehlay chunai na karein."
+      },
+      "sources": [
+        {
+          "link": "[NEEDS SOURCE]",
+          "note": "pull official PAD/AARI leaflet"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    }
+  ]
+}

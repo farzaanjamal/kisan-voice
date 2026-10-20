@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Kisaan Voice dictionary v2",
+  "type": "object",
+  "required": ["format_version", "dictionary_id", "code", "region", "crop",
+               "dictionary_version", "languages", "entries"],
+  "properties": {
+    "format_version": {"type": "integer", "const": 2},
+    "dictionary_id": {"type": "integer", "minimum": 0, "maximum": 255},
+    "code": {"type": "string", "pattern": "^[A-Z]{2,4}$"},
+    "region": {"type": "string"},
+    "crop": {"type": "string"},
+    "dictionary_version": {"type": "integer", "minimum": 1, "maximum": 255},
+    "languages": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "entries": {"type": "array", "items": {"$ref": "#/definitions/entry"}}
+  },
+  "definitions": {
+    "entry": {
+      "type": "object",
+      "required": ["id", "code", "category", "crop_stage", "urgency",
+                   "text", "sources", "confidence", "status"],
+      "properties": {
+        "id": {"type": "integer", "minimum": 1},
+        "code": {"type": "string", "pattern": "^[A-Z]{2,4}-[A-Z]{3}-[0-9]{3}$"},
+        "category": {"enum": ["sowing","variety","seed","fertilizer","irrigation",
+                     "weeds","pest_alert","disease_alert","weather_alert",
+                     "harvest","storage","safety","market_info"]},
+        "crop_stage": {"type": "string"},
+        "season_months": {"type": "array", "items": {"type": "integer","minimum":1,"maximum":12}},
+        "urgency": {"enum": ["info","advice","warning","urgent"]},
+        "text": {"type": "object", "minProperties": 1,
+                 "additionalProperties": {"type": "string"}},
+        "speech_text": {"type": "object", "additionalProperties": {"type": "string"}},
+        "slots": {"type": "array", "items": {"$ref": "#/definitions/slot"}},
+        "sources": {"type": "array"},
+        "source_summary": {"type": "string"},
+        "confidence": {"enum": ["high","medium","low"]},
+        "reviewed_by": {"type": "string"},
+        "reviewed_on": {"type": "string"},
+        "status": {"enum": ["draft","expert_reviewed","native_checked","approved"]}
+      }
+    },
+    "slot": {
+      "type": "object",
+      "required": ["name", "type"],
+      "properties": {
+        "name": {"type": "string"},
+        "type": {"enum": ["int", "enum"]},
+        "min": {"type": "integer"},
+        "max": {"type": "integer"},
+        "values": {"type": "object"}
+      }
+    }
+  }
+}

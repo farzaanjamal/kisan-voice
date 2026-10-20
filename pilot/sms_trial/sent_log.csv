@@ -1,0 +1,6 @@
+farmer_id,code,lang,chars,segments,sid,status
+F001,PCT-DIS-001,ur,114,2,MOCK00000,draft
+F002,PCT-DIS-001,roman_ur,137,1,MOCK00001,draft
+F001,PCT-DIS-002,ur,101,2,MOCK00002,draft
+F002,PCT-DIS-002,roman_ur,118,1,MOCK00003,draft
+F005,SNR-IRR-001,ur,121,2,MOCK00004,draft

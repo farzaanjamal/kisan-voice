@@ -1,0 +1,6 @@
+farmer_id,name,phone,region,crop,language,consent_given,active
+F001,Test A,+923000000001,punjab,cotton,ur,yes,yes
+F002,Test B,+923000000002,punjab,cotton,roman_ur,yes,yes
+F003,Test C,+923000000003,punjab,cotton,ur,no,yes
+F004,Test D,+923000000004,punjab,cotton,ur,yes,no
+F005,Test E,+923000000005,sindh,rice,ur,yes,yes
